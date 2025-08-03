@@ -1,0 +1,18 @@
+{
+    "ganesh": {
+        "password": "ganesh",
+        "email": "ganes@gmail.com"
+    },
+    "Pawan": {
+        "password": "pawan123",
+        "email": "pawan@gmail.com"
+    },
+    "aliya": {
+        "password": "aliya123",
+        "email": "aliya@gmail.com"
+    },
+    "1": {
+        "password": "1",
+        "email": "1@gamil.com"
+    }
+}
